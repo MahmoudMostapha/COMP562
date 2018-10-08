@@ -30,7 +30,7 @@
 
 * This course provides a broad introduction to modern machine learning. Machine learning uses interdisciplinary techniques such as statistics, linear algebra, optimization, and computer science in getting computers to make predictions or decisions without being explicitly programmed. Machine learning as a field is now incredibly pervasive, with applications spanning from energy management in intelligent buildings to autonomous navigation, and from analyzing medical data to book recommendation systems, etc. This course will cover casting such problems in a supervised (generative/discriminative learning, parametric/non-parametric learning, neural networks) or unsupervised (clustering, dimensionality reduction, kernel methods) learning frameworks. This course aims at the middle of the theoretical versus practical spectrum. We will learn the concepts behind several machine learning algorithms without going deeply into the mathematics and gain practical experience applying them. The course will consist of a combination of lectures, assignments, a midterm exam, and a final project.
 
-Target Audience
+## Target Audience
 
 * This course is intended to be an introduction to machine learning and is therefore suitable for all undergraduate students who are comfortable with basic math (linear algebra and basic probability) and ready to endeavor into creating and programming machine learning algorithms (basic programming skills in either Python or MATLAB).
 
